@@ -1,2 +1,6 @@
 # form.github.io
-##hola
+## Contenido
+  * nombre
+  * apellido
+  * correo
+  * contraseña
